@@ -1,0 +1,12 @@
+[submodule "xamarin-video"]
+	path = xamarin-video
+	url = https://github.com/lukaspanni/xamarin-video
+[submodule "ionic-video"]
+	path = ionic-video
+	url = https://github.com/lukaspanni/ionic-video
+[submodule "flutter-video"]
+	path = flutter-video
+	url = https://github.com/lukaspanni/flutter-video
+[submodule "react-native-video"]
+	path = react-native-video
+	url = https://github.com/lukaspanni/react-native-video
